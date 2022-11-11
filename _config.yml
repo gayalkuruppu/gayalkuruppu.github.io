@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=P0s7U8EAAAAJ&hl=en"
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Gayal-Kuruppu"
+  researchgate     : #"https://www.researchgate.net/profile/Gayal-Kuruppu"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,10 +103,10 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "gayalkuruppu/"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/7876086/gayal-kuruppu"
+  stackoverflow    : "https://stackoverflow.com/u/7876086"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
