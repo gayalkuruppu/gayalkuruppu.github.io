@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-- I am a Software Engineer working in the R&D team at WSO2. My work is related to the compiler of the novel cloud native programming language, [Ballerina](https://ballerina.io). Mainly, I develop Java backend APIs for language support such as completions, code-actions, hover, .. etc.
+- I am a research assistant at the Department of Computer Vision, [MBZUAI](https://mbzuai.ac.ae/about/), UAE under Assistant Professor [Dr. Muhammad Haris Khan](https://scholar.google.com/citations?user=ZgERfFwAAAAJ&hl=en).
+
+- I worked as a Software Engineer in the R&D team at WSO2. My work is related to the compiler of the novel cloud native programming language, [Ballerina](https://ballerina.io). Mainly, I develop Java backend APIs for language support such as completions, code-actions, hover, .. etc.
 
 - I graduated from University of Moratuwa, Faculty of Engineering with a first class honours degree specializing in Electronic and Telecommunication Engineering in 2021. I completed my thesis on "Virtual Try-on for Online Fashion" with [Dr. Ranga Rodrigo](https://ranga.staff.uom.lk). 
 
