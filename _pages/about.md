@@ -26,9 +26,9 @@ Publications
 
 News
 ======
-- Oct 2022 : Published "Realistic, Animatable Human Reconstructions for Virtual Fit-On" preprint in Arxiv
-- Jul 2021 : Graduated from University of Moratuwa, Faculty of Engineering with 1st class honours degree specializing Electronic and Telecommunication Engineering
-- May 2021 : Started working as a Software(Compiler) Engineer at WSO2
-- Aug 2020 : Attended the Cornell, Maryland, Max-Planck Pre-Doctoral Research School (CMMRS) 2022 in Saarbruecken, Germany
-- Jun 2020 : Published "An Analysis of Throughput and Latency Behaviours under Microservice Decomposition" in ICWE 2020
-- Jun 2019 : Started research internship at WSO2 research team
+- **Oct 2022** : Published "Realistic, Animatable Human Reconstructions for Virtual Fit-On" preprint in Arxiv
+- **Jul 2021** : Graduated from University of Moratuwa, Faculty of Engineering with 1st class honours degree specializing Electronic and Telecommunication Engineering
+- **May 2021** : Started working as a Software(Compiler) Engineer at WSO2
+- **Aug 2020** : Attended the Cornell, Maryland, Max-Planck Pre-Doctoral Research School (CMMRS) 2022 in Saarbruecken, Germany
+- **Jun 2020** : Published "An Analysis of Throughput and Latency Behaviours under Microservice Decomposition" in ICWE 2020
+- **Jun 2019** : Started research internship at WSO2 research team
