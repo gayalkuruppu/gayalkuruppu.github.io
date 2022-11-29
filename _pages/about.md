@@ -16,7 +16,7 @@ redirect_from:
 
 - I have completed my research internship in the Research team at WSO2, under the supervision of VP - Research & AI [Dr. Malith Jayasinghe](https://wso2.com/about/team/malith-jayasinghe/) and Senior VP & Chief Architect [Dr. Srinath Perera](https://wso2.com/about/team/srinath-perera/). I focused on analytically modeling the performance of the micro-services based systems.
 
-- My research interests lies on "Computer Vision", "Performance Analysis", "Mathematical Modeling" and "Programming Languages".
+- My research interests lies on **Computer Vision**, **Performance Analysis**, **Mathematical Modeling** and **Programming Languages**.
 
 Publications
 ======
@@ -29,6 +29,6 @@ News
 - **Oct 2022** : Published "Realistic, Animatable Human Reconstructions for Virtual Fit-On" preprint in Arxiv
 - **Jul 2021** : Graduated from University of Moratuwa, Faculty of Engineering with 1st class honours degree specializing Electronic and Telecommunication Engineering
 - **May 2021** : Started working as a Software(Compiler) Engineer at WSO2
-- **Aug 2020** : Attended the Cornell, Maryland, Max-Planck Pre-Doctoral Research School (CMMRS) 2022 in Saarbruecken, Germany
+- **Aug 2020** : Attended the Cornell, Maryland, Max-Planck Pre-Doctoral Research School (CMMRS) 2020 in Saarbrucken, Germany
 - **Jun 2020** : Published "An Analysis of Throughput and Latency Behaviours under Microservice Decomposition" in ICWE 2020
 - **Jun 2019** : Started research internship at WSO2 research team
