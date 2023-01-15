@@ -26,6 +26,7 @@ Publications
 
 News
 ======
+- **Nov 2022** : Started working as a Research Assistant at Computer Vision Department, MBZUAI, UAE
 - **Oct 2022** : Published "Realistic, Animatable Human Reconstructions for Virtual Fit-On" preprint in Arxiv
 - **Jul 2021** : Graduated from University of Moratuwa, Faculty of Engineering with 1st class honours degree specializing Electronic and Telecommunication Engineering
 - **May 2021** : Started working as a Software(Compiler) Engineer at WSO2
