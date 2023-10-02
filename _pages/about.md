@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-- I am a Research Assistant at the Department of Computer Vision, [MBZUAI](https://mbzuai.ac.ae/about/), UAE under Assistant Professor [Dr. Muhammad Haris Khan](https://scholar.google.com/citations?user=ZgERfFwAAAAJ&hl=en). My work is related to Domain Generalization and Network Calibration.
+- First year CS PhD student at the University of Minnesota - Twin Cities, MN, USA advised by Dr. Yogatheesan Varatharajah.
+
+- I worked as a Research Assistant at the Department of Computer Vision, [MBZUAI](https://mbzuai.ac.ae/about/), UAE under Assistant Professor [Dr. Muhammad Haris Khan](https://scholar.google.com/citations?user=ZgERfFwAAAAJ&hl=en). My work is related to Domain Generalization and Network Calibration.
 
 - I worked as a Software Engineer in the R&D team at WSO2. My work was related to the compiler of the novel cloud native programming language, [Ballerina](https://ballerina.io). Mainly, I developed Java backend APIs for language support such as completions, code-actions, hover, .. etc.
 
@@ -26,6 +28,7 @@ Publications
 
 News
 ======
+- **Aug 2023** : Started working as a Graduate Research Assistant at Computer Science & Engineering Department, University of Minnesota, MN, USA
 - **Nov 2022** : Started working as a Research Assistant at Computer Vision Department, MBZUAI, UAE
 - **Oct 2022** : Published "Realistic, Animatable Human Reconstructions for Virtual Fit-On" preprint in Arxiv
 - **Jul 2021** : Graduated from University of Moratuwa, Faculty of Engineering with 1st class honours degree specializing Electronic and Telecommunication Engineering
